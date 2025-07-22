@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "@strapi/plugin-cloud": "5.18.1",
+    "@strapi/plugin-graphql": "^5.18.1",
     "@strapi/plugin-users-permissions": "5.18.1",
     "@strapi/strapi": "5.18.1",
     "pg": "8.8.0",
@@ -35,7 +36,7 @@
     "npm": ">=6.0.0"
   },
   "strapi": {
-    "uuid": "aeb5f615-c24b-4517-988b-e545bbe32eaa",
-    "installId": "612278a777d6ddaf10f8d8b7fd15e85e7a53b909fb0edc6911dbfbedcbc345c0"
+    "uuid": "5666d28f-294a-45a6-8309-22c01cc0b9a9",
+    "installId": "0bf97283a599981bd7ae8f3a23a668b663b795020a006b9e78daf4f55567cefb"
   }
 }
